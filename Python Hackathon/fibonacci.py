@@ -26,7 +26,7 @@ def fibonacci(n):
     for _ in range(2, n + 1): # Loop to generate the sequence
       c = a + b
       a, b = b, c
-    return b # Generates the number calculated
+    return b # Generates the Fibonacci sequence
 
 # Get the number of terms from the user
 num_terms = int(input("Enter the number of terms: "))
