@@ -9,7 +9,7 @@
 - `git remote add origin https://github.com/........."`
 - ` git push -u origin master or main`
 
-### Updatign an existing repository
+### Updating an existing repository
 
 #### Steps
 
