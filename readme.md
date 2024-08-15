@@ -1,5 +1,5 @@
 # PYTHON SESSIONS
-### Uploading code to GitHub
+### Uploading Code to GitHub
 
 #### Steps
 
@@ -9,7 +9,7 @@
 - `git remote add origin https://github.com/........."`
 - ` git push -u origin master or main`
 
-### Updating an existing repository
+### Updating an Existing Repository
 
 #### Steps
 
