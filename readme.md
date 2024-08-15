@@ -1,5 +1,5 @@
 # PYTHON SESSIONS
-### Uploading code to github
+### Uploading code to GitHub
 
 #### Steps
 
